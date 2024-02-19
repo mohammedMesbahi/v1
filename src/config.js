@@ -16,11 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/mohammed-mesbahi-aouam-109584243',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/mohammed-mesbahi-109584243',
     },
   ],
 
