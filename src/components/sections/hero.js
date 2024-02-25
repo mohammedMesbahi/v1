@@ -65,13 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer student specializing in building (and occasionally designing)
-        exceptional digital experiences. Currently, I’m focused on building accessible,
-        human-centered products at{' '}
+        I'm a software engineering student at{' '}
         <a href="https://www.est-umi.ac.ma/" target="_blank" rel="noreferrer">
-          UMI
-        </a>
-        .
+          ESTM
+        </a>{' '}
+        , passionate about crafting exceptional digital experiences.
       </p>
     </>
   );

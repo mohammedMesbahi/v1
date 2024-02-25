@@ -135,16 +135,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Mohammed and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2021 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              👋 - A digital enthusiast with a passion for creating engaging online experiences. I
+              started exploring web development in 2021, driven by a curiosity to build unique
+              digital landscapes. As I delved into web development, I became fascinated by its
+              possibilities. My true passion emerged – crafting seamless and immersive online
+              experiences.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of continue my studies at{' '}
-              <a href="https://www.est-umi.ac.ma/">ESTM (Higher School Of Technologies Meknes)</a> .
-              My main focus these days is building a profound knowledge in JEE.
+              Today, I continue my exciting journey at{' '}
+              <a href="https://www.est-umi.ac.ma/">ESTM (Higher School Of Technologies Meknes) </a>{' '}
+              where I focus on reaching new heights of skill and knowledge.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
