@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Android', 'Java', 'React', 'Angular', 'Node.js', 'MongoDB'];
+  const skills = ['Android', 'Java', 'React', 'Angular', 'Node.js', 'MongoDB', 'JEE'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -143,9 +143,9 @@ const About = () => {
             </p>
 
             <p>
-              Today, I continue my exciting journey at{' '}
+              I graduated from the{' '}
               <a href="https://www.est-umi.ac.ma/">ESTM (Higher School Of Technologies Meknes) </a>{' '}
-              where I focus on reaching new heights of skill and knowledge.
+              where I have accumulate many skills and knowledge.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
