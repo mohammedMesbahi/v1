@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Sna3ti (My craft)'
 cover: './demo.png'
 github: 'https://github.com/mohammedMesbahi/Sna3ti.git'
