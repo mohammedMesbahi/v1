@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '5'
 title: 'SwiftTickets'
 cover: './demo.png'
 github: 'https://github.com/mohammedMesbahi/swiftTickets'
@@ -9,8 +9,6 @@ tech:
   - SPRING SECURITY
   - NEXTJS
   - Material UI
-  - MYSQL
-  - UmlStar
 ---
 
 A multi-language application that allows travellers to buy coach tickets online in Morocco.
