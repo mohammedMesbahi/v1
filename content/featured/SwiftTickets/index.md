@@ -2,7 +2,7 @@
 date: '1'
 title: 'SwiftTickets'
 cover: './demo.png'
-github: 'https://github.com/mohammedMesbahi/swiftTickets'
+github: 'https://github.com/mohammedMesbahi/SwiftTickets_demo'
 external: 'https://swiftTickets.mesbahi.site/'
 tech:
   - SPRING BOOT
