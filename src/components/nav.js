@@ -206,7 +206,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://cvdesignr.com/p/676021095e901"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
